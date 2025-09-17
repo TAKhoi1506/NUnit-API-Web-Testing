@@ -1,0 +1,10 @@
+D:\OU\HK8\KTPM\BaoCaoDoAn_29_Khoi\DoAn_29_Khoi\DoAn_29_Khoi\bin\Debug\DoAn_29_Khoi.exe.config
+D:\OU\HK8\KTPM\BaoCaoDoAn_29_Khoi\DoAn_29_Khoi\DoAn_29_Khoi\bin\Debug\DoAn_29_Khoi.exe
+D:\OU\HK8\KTPM\BaoCaoDoAn_29_Khoi\DoAn_29_Khoi\DoAn_29_Khoi\bin\Debug\DoAn_29_Khoi.pdb
+D:\OU\HK8\KTPM\BaoCaoDoAn_29_Khoi\DoAn_29_Khoi\DoAn_29_Khoi\obj\Debug\DoAn_29_Khoi.csproj.AssemblyReference.cache
+D:\OU\HK8\KTPM\BaoCaoDoAn_29_Khoi\DoAn_29_Khoi\DoAn_29_Khoi\obj\Debug\DoAn_29_Khoi.Frm_29_Khoi.resources
+D:\OU\HK8\KTPM\BaoCaoDoAn_29_Khoi\DoAn_29_Khoi\DoAn_29_Khoi\obj\Debug\DoAn_29_Khoi.Properties.Resources.resources
+D:\OU\HK8\KTPM\BaoCaoDoAn_29_Khoi\DoAn_29_Khoi\DoAn_29_Khoi\obj\Debug\DoAn_29_Khoi.csproj.GenerateResource.cache
+D:\OU\HK8\KTPM\BaoCaoDoAn_29_Khoi\DoAn_29_Khoi\DoAn_29_Khoi\obj\Debug\DoAn_29_Khoi.csproj.CoreCompileInputs.cache
+D:\OU\HK8\KTPM\BaoCaoDoAn_29_Khoi\DoAn_29_Khoi\DoAn_29_Khoi\obj\Debug\DoAn_29_Khoi.exe
+D:\OU\HK8\KTPM\BaoCaoDoAn_29_Khoi\DoAn_29_Khoi\DoAn_29_Khoi\obj\Debug\DoAn_29_Khoi.pdb

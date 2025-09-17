@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OU\\HK8\\KTPM\\BaoCaoDoAn_29_Khoi\\DoAn_29_Khoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E05385B-F7BD-41DE-982E-05AAF6EAB6AA}|UnitTest_29_Khoi\\UnitTest_29_Khoi.csproj|d:\\ou\\hk8\\ktpm\\baocaodoan_29_khoi\\doan_29_khoi\\unittest_29_khoi\\ut_29_khoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E05385B-F7BD-41DE-982E-05AAF6EAB6AA}|UnitTest_29_Khoi\\UnitTest_29_Khoi.csproj|solutionrelative:unittest_29_khoi\\ut_29_khoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655BF97E-3D3C-462C-917D-9EC8007453AF}|DoAn_29_Khoi\\DoAn_29_Khoi.csproj|d:\\ou\\hk8\\ktpm\\baocaodoan_29_khoi\\doan_29_khoi\\doan_29_khoi\\frm_29_khoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655BF97E-3D3C-462C-917D-9EC8007453AF}|DoAn_29_Khoi\\DoAn_29_Khoi.csproj|solutionrelative:doan_29_khoi\\frm_29_khoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655BF97E-3D3C-462C-917D-9EC8007453AF}|DoAn_29_Khoi\\DoAn_29_Khoi.csproj|d:\\ou\\hk8\\ktpm\\baocaodoan_29_khoi\\doan_29_khoi\\doan_29_khoi\\frm_29_khoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{655BF97E-3D3C-462C-917D-9EC8007453AF}|DoAn_29_Khoi\\DoAn_29_Khoi.csproj|solutionrelative:doan_29_khoi\\frm_29_khoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655BF97E-3D3C-462C-917D-9EC8007453AF}|DoAn_29_Khoi\\DoAn_29_Khoi.csproj|d:\\ou\\hk8\\ktpm\\baocaodoan_29_khoi\\doan_29_khoi\\doan_29_khoi\\tinhtoan_29_khoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655BF97E-3D3C-462C-917D-9EC8007453AF}|DoAn_29_Khoi\\DoAn_29_Khoi.csproj|solutionrelative:doan_29_khoi\\tinhtoan_29_khoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UT_29_Khoi.cs",
+              "DocumentMoniker": "D:\\OU\\HK8\\KTPM\\BaoCaoDoAn_29_Khoi\\DoAn_29_Khoi\\UnitTest_29_Khoi\\UT_29_Khoi.cs",
+              "RelativeDocumentMoniker": "UnitTest_29_Khoi\\UT_29_Khoi.cs",
+              "ToolTip": "D:\\OU\\HK8\\KTPM\\BaoCaoDoAn_29_Khoi\\DoAn_29_Khoi\\UnitTest_29_Khoi\\UT_29_Khoi.cs",
+              "RelativeToolTip": "UnitTest_29_Khoi\\UT_29_Khoi.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAuwLEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T06:30:40.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_29_Khoi.cs",
+              "DocumentMoniker": "D:\\OU\\HK8\\KTPM\\BaoCaoDoAn_29_Khoi\\DoAn_29_Khoi\\DoAn_29_Khoi\\Frm_29_Khoi.cs",
+              "RelativeDocumentMoniker": "DoAn_29_Khoi\\Frm_29_Khoi.cs",
+              "ToolTip": "D:\\OU\\HK8\\KTPM\\BaoCaoDoAn_29_Khoi\\DoAn_29_Khoi\\DoAn_29_Khoi\\Frm_29_Khoi.cs",
+              "RelativeToolTip": "DoAn_29_Khoi\\Frm_29_Khoi.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T05:59:05.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TinhToan_29_Khoi.cs",
+              "DocumentMoniker": "D:\\OU\\HK8\\KTPM\\BaoCaoDoAn_29_Khoi\\DoAn_29_Khoi\\DoAn_29_Khoi\\TinhToan_29_Khoi.cs",
+              "RelativeDocumentMoniker": "DoAn_29_Khoi\\TinhToan_29_Khoi.cs",
+              "ToolTip": "D:\\OU\\HK8\\KTPM\\BaoCaoDoAn_29_Khoi\\DoAn_29_Khoi\\DoAn_29_Khoi\\TinhToan_29_Khoi.cs",
+              "RelativeToolTip": "DoAn_29_Khoi\\TinhToan_29_Khoi.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T05:58:04.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_29_Khoi.cs [Design]",
+              "DocumentMoniker": "D:\\OU\\HK8\\KTPM\\BaoCaoDoAn_29_Khoi\\DoAn_29_Khoi\\DoAn_29_Khoi\\Frm_29_Khoi.cs",
+              "RelativeDocumentMoniker": "DoAn_29_Khoi\\Frm_29_Khoi.cs",
+              "ToolTip": "D:\\OU\\HK8\\KTPM\\BaoCaoDoAn_29_Khoi\\DoAn_29_Khoi\\DoAn_29_Khoi\\Frm_29_Khoi.cs [Design]",
+              "RelativeToolTip": "DoAn_29_Khoi\\Frm_29_Khoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T05:53:59.198Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

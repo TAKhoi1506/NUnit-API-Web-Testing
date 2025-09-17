@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoAn_SeleniumTest_29_Khoi", "DoAn_SeleniumTest_29_Khoi\DoAn_SeleniumTest_29_Khoi.csproj", "{663498B3-A7BE-4EBE-A707-5A3AB2801952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UT_Selenium_29_Khoi", "UT_Selenium_29_Khoi\UT_Selenium_29_Khoi.csproj", "{C68B7A43-A429-4BA6-928B-0A046F4EAEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{663498B3-A7BE-4EBE-A707-5A3AB2801952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663498B3-A7BE-4EBE-A707-5A3AB2801952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663498B3-A7BE-4EBE-A707-5A3AB2801952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663498B3-A7BE-4EBE-A707-5A3AB2801952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68B7A43-A429-4BA6-928B-0A046F4EAEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68B7A43-A429-4BA6-928B-0A046F4EAEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68B7A43-A429-4BA6-928B-0A046F4EAEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68B7A43-A429-4BA6-928B-0A046F4EAEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5960EF1B-F6B8-4C39-949A-F3FF5F8C06B5}
+	EndGlobalSection
+EndGlobal

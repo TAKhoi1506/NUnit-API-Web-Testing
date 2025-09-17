@@ -1,0 +1,60 @@
+{
+    "TestMusicAPI_29_Khoi": [
+      {
+        "id": 1,
+        "name_29_Khoi": "Blinding Lights",
+        "singers_29_Khoi": "The Weeknd",
+        "duration_29_Khoi": "3:20 phút",
+        "plays_29_Khoi": "4,782,481,619",
+        "price_29_Khoi": 125000,
+        "categoryID_29_Khoi": 1
+      },
+      {
+        "id": 2,
+        "name_29_Khoi": "Love Story",
+        "singers_29_Khoi": "Indila",
+        "duration_29_Khoi": "5:16 phút",
+        "plays_29_Khoi": "1,554,621,000",
+        "price_29_Khoi": 105000,
+        "categoryID_29_Khoi": 2
+      },
+      {
+        "id": 3,
+        "name_29_Khoi": "Stay",
+        "singers_29_Khoi": "The Kid LAROI, Justin Beiber",
+        "duration_29_Khoi": "2:21 phút",
+        "plays_29_Khoi": "3,515,916,237",
+        "price_29_Khoi": 250000,
+        "categoryID_29_Khoi": 1
+      },
+      {
+        "id": 4,
+        "name_29_Khoi": "NOLOVENOLIFE",
+        "singers_29_Khoi": "Hiếu Thứ Hai",
+        "duration_29_Khoi": "2:50 phút",
+        "plays_29_Khoi": "28,609,906",
+        "price_29_Khoi": 50000,
+        "categoryID_29_Khoi": 3
+      },
+      {
+        "id": 5,
+        "name_29_Khoi": "2AM",
+        "singers_29_Khoi": "JustaTee, BigDaddy",
+        "duration_29_Khoi": "4:18 phút",
+        "plays_29_Khoi": "29,559,891",
+        "price_29_Khoi": 65000,
+        "categoryID_29_Khoi": 3
+      },
+      {
+        "id": 6,
+        "name_29_Khoi": "Bad Liar",
+        "singers_29_Khoi": "Imagine Dragons",
+        "duration_29_Khoi": "4:20 phút",
+        "plays_29_Khoi": "1,195,058,789",
+        "price_29_Khoi": 200000,
+        "categoryID_29_Khoi": 1
+      }
+      
+     
+    ]
+  }
